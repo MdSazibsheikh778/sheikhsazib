@@ -5,7 +5,7 @@
 
 I am Front End Developer who is passionate about making error- free website with 100% client satisfaction .I have passion learning and sharing  my knowledge  with others publicly as possible
 
-Skills:  REACT / JS / HTML / CSS
+Skills:  REACT / JS / Jqueary/HTML / CSS
 
 - 🔭 I’m currently working on GET Entry Mamagementt System 
 - 🌱 I’m currently learning javaScript  
